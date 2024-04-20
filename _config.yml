@@ -1,7 +1,7 @@
 # Configurations
-title:            HJH08 블로그
+title:            HJH_08 블로그
 longtitle:        Jekyll Gitbook
-author:           황재희
+author:           Hwang Jae hee
 email:            ghkdwogml100@naver.com
 description: >
   Build Jekyll site with the GitBook style.
