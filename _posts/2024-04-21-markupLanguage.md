@@ -1,16 +1,15 @@
 ---
 title: "마크업 언어란?"
 
-excerpt:"마크업언어란 데이터의 구조와 표현을 정의하는언어다."
+excerpt: "마크업언어란 데이터의 구조와 표현을 정의하는언어다."
 
-categories:
-    -markupLangauge
+categories: -markupLangauge
 
-toc:true
-toc_sticky:true
+toc: true
+toc_sticky: true
 
-date:2024-04-21
-last_modified_at:2024-04-21
+date: 2024-04-21
+last_modified_at: 2024-04-21
 ---
 
 
