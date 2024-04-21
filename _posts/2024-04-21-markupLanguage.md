@@ -7,7 +7,7 @@ categories: -markupLangauge
 
 toc: true
 toc_sticky: true
-
+layout: post
 date: 2024-04-21
 last_modified_at: 2024-04-21
 ---
@@ -16,7 +16,7 @@ last_modified_at: 2024-04-21
 # 마크란?
 
 마크 : 텍스트나 문서를 특정한방식으로 표시하는것을 의미한다.\
-특정할부분을 표시하고 구분짓는것을 의미한다.\
+특정할부분을 표시하고 구분짓는것을 의미한다.
 
 
 # 마크업 언어란?
