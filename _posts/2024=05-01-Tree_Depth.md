@@ -1,13 +1,13 @@
 ---
-title: "소켓 스트림방식,데이터그램방식"
+title: "트리의 Depth 알고리즘과 시간복잡도"
 
-categories: -Socket
+categories: -Data Structure
 
 toc: true
 toc_sticky: true
 layout: post
-date: 2024-04-23
-last_modified_at: 2024-04-23
+date: 2024-05-01
+last_modified_at: 2024-05-01
 ---
 
 
